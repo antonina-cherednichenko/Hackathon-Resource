@@ -300,7 +300,7 @@ Most platforms will save the extra back and forth, and set `"autoConfirm" : true
   "source": "paymentmethod:PA-M6YW788BCWN:ach", // note the :ach on the end of the payment method.
   "dest": "ethereum:0x72867Ae42Cd662Beaa4d237694061BD1c7a6Ec02",
   "sourceCurrency":"USD",
-  "destCurrency":"USD",
+  "destCurrency":"ETH",
   "sourceAmount": "100",
   "amountIncludeFees": true,
   "autoConfirm": true
